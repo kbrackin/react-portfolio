@@ -1,0 +1,12 @@
+#root, .navigation {
+    background: no-repeat url("../public/pexels-felix-mittermeier-956999.jpg")
+}
+
+a {
+    text-decoration: none #FFFFFF;
+    color: lightblue
+}
+
+.homeText {
+    text-align: center;
+}
