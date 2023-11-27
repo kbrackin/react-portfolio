@@ -14,6 +14,7 @@ function Navigation() {
               <Nav.Link href="/About">About</Nav.Link>
               <Nav.Link href="/Projects">Projects</Nav.Link>
               <Nav.Link href="/Contact">Contact Me</Nav.Link>
+              <Nav.Link href="https://drive.google.com/file/d/14ZTRaspLJFxtrAHca6Iq_S0euoSmjfep/view?usp=sharing" target="_blank">Resumé</Nav.Link>
             </Nav>
           </Container>
         </Navbar>
