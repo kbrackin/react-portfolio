@@ -1,0 +1,50 @@
+html, body {
+    width: 100%;
+    margin: 0; 
+    padding: 0; 
+    overflow-x: hidden;
+  }
+
+#root {
+    background: no-repeat url("/pexels-felix-mittermeier-956999.jpg");
+    margin-right: 0%;
+}
+
+a {
+
+    text-decoration: none #FFFFFF;
+    color: lightblue;
+    
+}
+
+.Home, .contact, .aboutMe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    min-height: 100vh;
+    background-color: rgba(26, 26, 26, 0.5);
+    border-radius: 50px;
+    padding: 100px;
+    padding-top: 0px;
+}
+
+.footer {
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: rgba(26, 26, 26, 0.5);
+}
+
+.container {
+    display: flex;
+    max-width: 100vw;
+}
+
+.projects {
+    color: white;
+}
