@@ -1,4 +1,3 @@
-import { Outlet, useLocation } from "react-router-dom";
 import Footer from "./components/Footer";
 import Navigation from "./components/Navigation";
 import 'bootstrap/dist/css/bootstrap.min.css';

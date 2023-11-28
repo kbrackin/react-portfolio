@@ -4,11 +4,7 @@ import { TypeAnimation } from 'react-type-animation';
 function Home() {
     return (
         <div className="Home">
-            <br />
-            <br />
-            <br />
             <h3>My name is Kevin Brackin</h3>
-            <br />
             <h5>Full Stack developer</h5>
             <TypeAnimation
                 sequence={[
