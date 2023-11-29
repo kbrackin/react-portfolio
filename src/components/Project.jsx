@@ -1,5 +1,13 @@
 import Button from "react-bootstrap/Button";
 import Card from "react-bootstrap/Card";
+import propTypes from "prop-types";
+
+Project.propTypes = {
+    title: propTypes.string,
+    link: propTypes.string,
+    pic: propTypes.string,
+    desc: propTypes.string
+  }
 
 function Project(props) {
     return (
