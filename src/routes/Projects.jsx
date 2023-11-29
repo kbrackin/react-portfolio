@@ -6,7 +6,7 @@ import Project from "../components/Project"
 
 const projects = [
     {
-      title: "Vacationator",
+      title: "Vacationator", String,
       link: "https://vacationator-2de9434bd279.herokuapp.com/login",
       pic: "/Vacationator.png",
       desc: "This is a simple MVC HR application with security groups and email alerts utilizing MySQL.",
